@@ -7,6 +7,5 @@ alt: image-alt
 project-date: November 2022
 client: Hobbies
 category: Hobbies
-description: I have a variety of hobbies which include fly-fishing, snowboarding, and enjoying the outdoors. I also really enjoy the world of aviation, specifically the history and where it is going currently. I hope that my future career has something to do with aviation, and the technology involved! Click on the link to go to my favorite ski resort here in utah!
-<a href="https://www.snowbasin.com/">Snowbasin</a>
+description: I have a variety of hobbies which include fly-fishing, snowboarding, and enjoying the outdoors. I also really enjoy the world of aviation, specifically the history and where it is going currently. I hope that my future career has something to do with aviation, and the technology involved!
 ---
