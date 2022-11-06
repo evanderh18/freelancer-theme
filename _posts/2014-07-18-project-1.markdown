@@ -4,8 +4,9 @@ modal-id: 1
 date: 2014-07-18
 img: hobbies.JPG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: 
+project-date: November 2022
+client: Hobbies
+category: Hobbies
+description: I have a variety of hobbies which include fly-fishing, snowboarding, and enjoying the outdoors. I also really enjoy the world of aviation, specifically the history and where it is going currently. I hope that my future career has something to do with aviation, and the technology involved! Click on the link to go to my favorite ski resort here in utah!
+<a href="https://www.snowbasin.com/">Snowbasin</a>
 ---
